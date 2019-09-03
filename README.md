@@ -12,7 +12,7 @@ In the portfolio page, there are links to some of the works or projects i've bee
 
 ## About Me
 
-About me is a little story of how my Tech life has over the year. It's an interesting story because i didn't always liked web programming or pragramming of any kind.
+About me is a little story of how my Tech life evolved over the year. It's an interesting story because i didn't always liked web programming or pragramming of any kind.
 
 ## Contact
 
