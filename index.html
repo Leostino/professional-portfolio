@@ -194,15 +194,17 @@
 							</header>
 
 
-							<form method="post" action="#">
+							<form id="contact-form" action="https://formspree.io/mlqlbkqx" method="POST">
 								<div class="row pt-2">
-									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
-									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
+									<div id="user-name" class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" required /></div>
+									<div id="user-email" class="col-6 col-12-mobile"><input type="text" name="_replyto" placeholder="Email" required /></div>
 									<div class="col-12 pt-5">
-										<textarea name="message" placeholder="Message"></textarea>
+										<textarea id="user-message" name="message" placeholder="Message"></textarea>
+										<p id="my-form-status"></p>
 									</div>
 									<div class="col-12">
-										<input type="submit" value="Send Message" />
+										<input id="submit-button" type="submit" value="Send Message" />
+										
 									</div>
 								</div>
 							</form>
@@ -230,6 +232,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/portfolio.js"></script>
 
 	</body>
 </html>
