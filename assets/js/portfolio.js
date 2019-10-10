@@ -1,39 +1,3 @@
-
-// console.log("connected");
-
-// $("#contact-form").on("submit", function(event) {
-
-//     let  name = $("#user-name").val();
-//     let email = $("#user-email").val();
-//     let message = $("#user-message").val();
-
-//     // if((!$("#user-name").val()) || (!$("#user-email").val()) || (!$("#user-message").val())) {
-
-//     //     alert("Please check your entries");
-
-//     // }else{
-
-       
-        
-//     // }
-
-//     console.log(name, email, message);
-
-//     event.preventDefault();
-//     $(this).get(0).reset();
-//     alert("Message Sent");
-    
-
-//     $.ajax({
-//         url: "https://formspree.io/leonardezeudu@gmail.com",
-//         type: "POST",
-//         data: $(this).serialize(),
-//         dataType: "json"
-//       })
-// })
-
-// // https://formsubmit.co/leonardezeudu@gmail.com, https://formsubmit.co/form/submission
-
   window.addEventListener("DOMContentLoaded", function() {
 
     // get the form elements defined in your form HTML above
