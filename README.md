@@ -1,10 +1,10 @@
 # Professional Portfolio
 
-This is my story since before college. How my passion for Technology and web development evolved. This site has 4 sections:
+Welcome to my Portfolio page. This page contains everything about my professional life and a story of how my passion for Technology and especially web development evolved over the years. This page has 4 sections:
 
 ## MyIntro
 
-This section contains a welcome message, my current city and where i work. It also contains links to my resume, some of the certifications i got from a cybersecurity program at University of Maryland. They include Software security, Hardware Security and Computer Cryptography. Click on the links to view my resume and these certifications.
+This section contains a welcome message, my current city and work. It also contains links to my resume, some of the certifications i got from a cybersecurity program at University of Maryland. They include Software security, Hardware Security and Computer Cryptography. Click on the links to view my resume and these certifications.
 
 ## My Portfolio
 
@@ -12,7 +12,7 @@ In the portfolio page, there are links to some of the works or projects i've bee
 
 ## About Me
 
-About me is a little story of how my Tech life evolved over the year. It's an interesting story because i didn't always liked web programming or pragramming of any kind.
+About me is a little story of how my Tech life evolved over the years. It's an interesting story because i didn't always liked web programming or pragramming of any kind.
 
 ## Contact
 
